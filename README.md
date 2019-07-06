@@ -17,3 +17,5 @@ Creo un Repositorio del proyecto, soluciono los problemas que la pagina contenia
 Actualizo los fondos nuevamente agregando mas dinamica a la pagina.
 ##### 25/06/2019
 Por un error del Extension Builder, se actualiza a la version 2, de esta forma el plugin instalado, Ahora si puede agregar valores que contengan Date, DateTime, Date(timeStamp), DateTime(TimeStamp).
+##### 06/06/2019
+Modifico la pagina principal para que sea mas accesible y le agrego informacion, para que de esta forma, se entienda la funcion que cumple la pagina con sus respectivos espacios.
